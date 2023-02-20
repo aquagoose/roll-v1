@@ -1,0 +1,13 @@
+TODO:
+Roll - Stuff to add and do, in order of priority
+- Temp mute command DONE!!!!
+- Swear filter DONE!!!!
+- Suggestion system NEARLY DONE!!!!
+- DM a user manually
+- Permissions checking (being able to send messages being a key one here)
+- Rewrite the config command
+- When roll is added to a server, send a message DONE!!!!
+- Clear command rewrite DONE!!!!
+- sendembed command rewrite
+- suggest checking for "" and <> etc
+- Everything else
